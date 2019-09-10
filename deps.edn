@@ -19,4 +19,5 @@
                                org.clojure/tools.namespace {:mvn/version "0.2.11"}
                                danlentz/clj-uuid           {:mvn/version "0.1.9"}
                                ;; FIXME: probably need to dep on this some other way (since not all users will be on the same cider version)
-                               cider/cider-nrepl          {:mvn/version "0.21.1"}}}}}
+                               cider/cider-nrepl           {:mvn/version "0.21.1"}
+                               org.clojure/data.csv        {:mvn/version "0.1.4"}}}}}
